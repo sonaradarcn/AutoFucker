@@ -17,8 +17,8 @@ pip install numpy scikit-learn tqdm bottle pandas
 - 本项目建议二次开发，通过API接入程序实现对本项目的调用。API调用地址示范：http://localhost:8080/api/auto_fucker?input_sentence=。
 - 本项目严格禁止用于任何违反法律法规、危害国家安全、损害公共利益、侵犯他人合法权益（包括但不限于知识产权、隐私权）以及任何扰乱社会秩序的活动。使用者须对自身行为承担全部法律责任。
 
-<p align="center">
-    <img src="https://github.com/sonaradarcn/Sonaradar_Copyright_Assets/blob/main/SEL%20LOGO%20FULL.png?raw=true" alt="描述" style="height:32px;align-content:center">
+<p align="center" style="font-size:12px;font-weight:bold">
+    <img src="https://github.com/sonaradarcn/Sonaradar_Copyright_Assets/blob/main/SEL%20LOGO%20FULL.png?raw=true" alt="描述" style="height:48px;align-content:center;margin-left:10px;">
 </p>
 
 
